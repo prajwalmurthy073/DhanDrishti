@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+xgboost
+jupyter
+notebook
+ipykernel
+streamlit
+fpdf2
+pdfplumber
+plotly
+python-dotenv
+langchain
+langchain-groq
